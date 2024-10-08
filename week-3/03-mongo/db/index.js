@@ -23,7 +23,7 @@ const CourseSchema = new mongoose.Schema({
     // Schema definition here
     title: String,
     description: String,
-    imagaeLink: String,
+    imageLink: String,
     price: Number
 });
 
